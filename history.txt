@@ -1,0 +1,205 @@
+    1  pwd
+    2  ls
+    3  ls - a
+    4  makdir dir_1
+    5  mkdir dir_1
+    6  cat > name, txt
+    7  alex
+    8  cat > Alex, txt
+    9  gostname
+   10  hostname
+   11  mkdir group_33_u
+   12  mkdir GitHub
+   13  cd GitHub/
+   14  git clone
+   15  cd..
+   16  cd
+   17  rm -rf terminal/
+   18  git clone [200~https://github.com/RoseKorni/terminal.git~
+   19  git clone https://github.com/RoseKorni/terminal.git
+   20  vim user.json
+   21  cat users.json
+   22  vim users.json
+   23  mkdir JSON
+   24  mkdir new.json
+   25  git clone https://github.com/DIKorniichuk/JSON.git
+   26  git clone https://github.com/DIKorniichuk/JSON.git
+   27  mkdir new.json
+   28  git clone https://github.com/DIKorniichuk/JSON.git
+   29  cd JSON
+   30  cat > new.json.txt
+   31  git clone https://github.com/DIKorniichuk/JSON.git
+   32  cd JSON
+   33  cat > new.json.txt
+   34  mkdir JSON
+   35  cd mkdir
+   36  cd JSON
+   37  git clone https://github.com/DIKorniichuk/JSON.git
+   38  mkdir new.json
+   39  git clone https://github.com/DIKorniichuk/JSON.git
+   40  mkdir new.json
+   41  git clone https://github.com/DIKorniichuk/JSON.git
+   42  cd JSON
+   43  mkdir new.json
+   44  git add .
+   45  git commit -m "new.json"
+   46  git status
+   47  terminal_commands_1.txt
+   48  git clone https://github.com/DIKorniichuk/JSON.git
+   49  cd JSON
+   50  mkdir new.json
+   51  git clone https://github.com/DIKorniichuk/JSON.git
+   52  git clone https://github.com/DIKorniichuk/JSON.git
+   53  cd JSON
+   54  mkdir new.json
+   55  git clone https://github.com/DIKorniichuk/JSON.git
+   56  cd JSON
+   57  mkdir new.json
+   58  git add new.json
+   59  git commit -m "new.json"
+   60  git config --global danakorniichuk3@gmail.com
+   61  git config --global user.email "danakorniichuk3@gmail.com"
+   62  git config --global user.email "danakorniichuk3@gmail.com"
+   63  git clone https://github.com/DIKorniichuk/JSON.git
+   64  cd JSON
+   65  mkdir new.json
+   66  git add new.json
+   67  git commit -m "new.json"
+   68  git push origin master
+   69  ssh-keygen
+   70  cat id_rsa.pub
+   71  git config --global --list
+   72  git config --global user.name DIKorniichuk
+   73  git config --global --list
+   74  git clone https://github.com/DIKorniichuk/JSON.git
+   75  cd JSON
+   76  mkdir new.json
+   77  git add new.json
+   78  git commit -m "new.json"
+   79  git push origin master
+   80  git clone https://github.com/DIKorniichuk/JSON.git
+   81  git clone https://github.com/DIKorniichuk/JSON.git
+   82  cd JSON
+   83  mkdir new.json
+   84  git add new.json
+   85  git commit -m "Доданий файл new.json"
+   86  git clone https://github.com/DIKorniichuk/JSON.git
+   87  cd JSON
+   88  mkdir new.json
+   89  git add .
+   90  git status
+   91  git commit -m "JSON"
+   92  git clone https://github.com/DIKorniichuk/JSON.git
+   93  cd JSON
+   94  cd
+   95  pwd
+   96  mkdir dir_1
+   97  cat > name.txt
+   98  mkdir dir_1
+   99  history > list.txt
+  100  git clone https://github.com/DIKorniichuk/JSON.git
+  101  cd JSON
+  102  touch new.json
+  103  ls - la
+  104  ls -la
+  105  git add new.json
+  106  git commit -m "Added new.json"
+  107  git push
+  108  git add new.json
+  109  git commit -m "Update new.json"
+  110  git commit -m "Update new.json"
+  111  git add new.json
+  112  git commit -m "Update new.json"
+  113  touch preferences.json
+  114  touch skills.json
+  115  git add preferences.json skill.json
+  116  git add preferences.json skills.json
+  117  git commit -m "Add preferences.json and skills.json"
+  118  git push
+  119  git pull
+  120  history > history.txt
+  121  git add file.md
+  122  touch commands.md
+  123  git add commands.md
+  124  git commit -m "Added commands Markdown"
+  125  git push
+  126  git clone https://github.com/DIKorniichuk/XML.git
+  127  cd XML
+  128  touch new.xml
+  129  git add new.xml
+  130  git commit -m "Added new.xml"
+  131  git push
+  132  git add new.xml
+  133  git commit -m "Update new.xml"
+  134  git push
+  135  touch preferences.xml
+  136  touch skills.xml
+  137  git add preferences.xml skills.xml
+  138  git commit -m "Add preferences.xml and skills.xml"
+  139  git push
+  140  git pull
+  141  history > history.txt
+  142  touch commands.md
+  143  git add commands.md
+  144  git commit -m "Added commands Markdown"
+  145  git push
+  146  git clone https://github.com/DIKorniichuk/TXT.git
+  147  cd TXT
+  148  touch new.txt
+  149  git add new.txt
+  150  git commit -m "Added new.txt"
+  151  git push
+  152  git add new.txt
+  153  git commit -m "Update new.txt"
+  154  git push
+  155  touch preferences.txt
+  156  touch skills.txt
+  157  git add preferences.txt skills.txt
+  158  git commit -m "Add preferences.txt and skills.txt"
+  159  git push
+  160  git pull
+  161  history > history.txt
+  162  touch commands.md
+  163  git add commands.md
+  164  git commit -m "Added commands Markdown"
+  165  git push
+  166  pwd
+  167  mkdir homework
+  168  cd homework
+  169  mkdir home_1 home_2 home_3
+  170  cd home_1
+  171  touch apple.txt almond.txt apricot.txt berry.json cherry.json
+  172  mkdir fruit_1 vegetables_2 coffee_3
+  173  ls
+  174  cd almond.txt
+  175  cd fruit_1
+  176  nano almond.txt
+  177  cd ..
+  178  mv fruit_1 vegetables_2 > coffee_3
+  179  mv almond.txt apple.txt > fruit_1
+  180  mv almond.txt apple.txt fruit_1
+  181  cp almond.txt apple txt vegetables_2
+  182  cp berry.json cherry.json coffee_3
+  183  find . -name almond.txt
+  184  cat berry.json grep Molly
+  185  grep Molly berry.json
+  186  echo "str1/str2/str3" >> apricot.txt
+  187  head -n 3 apricot.txt
+  188  tail -n 2 apricot.txt
+  189  less apricot.txt
+  190  date
+  191  touch commands.md
+  192  git add commands.md
+  193  git clone https://github.com/DIKorniichuk/Git-Bash-Commands.git
+  194  git add commands.md
+  195  git clone https://github.com/DIKorniichuk/Git-Bash-Commands.git
+  196  git add commands.md
+  197  git add commands.md
+  198  cd git_bash_commands
+  199  cd 
+  200  cd ..
+  201  touch commands.md
+  202  git add commands.md
+  203  git commit -m "Added commands.md"
+  204  git push
+  205  history > history.txt
