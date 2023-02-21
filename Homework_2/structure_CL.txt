@@ -1,0 +1,9 @@
+1. Requirements Review: Review the requirements documents to understand the project objectives and scope.
+2. Test Plan Creation: Create a test plan that outlines the testing approach, test cases, and testing schedule.
+3. Test Case Design: Develop test cases that cover all functional and non-functional requirements, including edge cases and negative scenarios.
+4. Test Environment Setup: Set up the test environment with necessary hardware, software, and network configurations required for testing.
+5. Test Execution: Execute test cases and record results, making note of any defects discovered.
+6. Defect Reporting: Report defects in a clear and concise manner with detailed steps to reproduce.
+7. Defect Resolution: Verify that defects are fixed by retesting and closing defects when confirmed.
+8. Regression Testing: Execute regression tests to ensure that previously working functionality has not been impacted by new changes or fixes.
+9. Test Closure: Document the testing activities performed and any recommendations or lessons learned.
