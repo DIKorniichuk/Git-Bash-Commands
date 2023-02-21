@@ -1,0 +1,31 @@
+  228  git branch Postman
+  231  git branch Jmeter
+  232  git branch CheckLists
+  234  git branch Bag_Reports
+  235  git branch SQL
+  236  git branch Charles
+  237  git branch Mobile_testing
+  240  git push origin Postman
+  242  git push origin SQL
+  243  git push origin Jmeter
+  244  git push origin Checklists
+  245  git push origin CheckLists
+  246  git push origin Bag_Reports
+  247  git push origin Charles
+  248  git push origin Mobile_testing
+  249  git checkout Bag_Reports
+  252  touch structure.txt
+  253  git add .
+  254  git commit -m "Added structure BR"
+  256  git push origin Bag_Reports
+  257  git checkout main
+  258  git merge Bag_Reports
+  259  git push origin main
+  260  git checkout CheckLists
+  261  touch structure_CL.txt
+  262  git add .
+  263  git commit -m "Added structure CL"
+  264  git push origin CheckLists
+  265  git checkout main
+  267  git pull origin main
+  268  history > hw_2.txt
