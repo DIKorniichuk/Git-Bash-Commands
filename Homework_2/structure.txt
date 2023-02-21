@@ -1,0 +1,13 @@
+1. Summary: Provide a brief, one-line description of the bug.
+
+2. Environment: Specify the platform and browser you were using when the bug occurred, as well as any other relevant information such as device, operating system, or network connectivity.
+
+3. Steps to reproduce: Detail the exact steps you took to encounter the bug, including any input data or actions.
+
+4. Expected behavior: Describe what you expected to happen after performing the steps.
+
+5. Actual behavior: Explain what actually happened after performing the steps, including any error messages or unexpected behavior.
+
+6. Screenshots or video: Provide screenshots or videos that illustrate the issue and help developers to understand the problem.
+
+7. Additional information: Include any other relevant information that could be useful for developers to fix the bug, such as console logs, network traces, or any other observations you made while testing.
